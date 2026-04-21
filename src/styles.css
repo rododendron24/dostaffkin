@@ -148,3 +148,11 @@ input::placeholder, textarea::placeholder {
     font-size: 12px;
     color: red;
 }
+
+
+
+.toast-top-right {
+    top: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+}
