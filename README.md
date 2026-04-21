@@ -47,12 +47,12 @@ npm start
 
 ### Сборка для production
 ```bash
-npm build
+npm run build
 ```
 
 ### Режим watch
 ```bash
-npm watch
+npm run watch
 ```
 
 ### Тесты
